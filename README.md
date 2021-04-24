@@ -8,7 +8,7 @@ Implementing pseudo random number generators for AVR's
 * DONE To generate 15 packages with 12 numbers
 * DONE Cannot use bigger type than uint32_t
 * DONE Final type of result have to be uint8_t
-* Range: < 0x04 , 0x27 > u < 0x2D , 0x38 >
+* DONE Range: < 0x04 , 0x27 > u < 0x2D , 0x38 >
 * Need at least:
   *  One number from < 0x04 , 0x1D >
   *  One number from < 0x1E , 0x27 >
