@@ -5,8 +5,10 @@
 
 int main() {
     
-    print_range_u16();
-    //printf("========\n");
+    print_final_range_u16();
+    
+    //print_range_u16();
+
     //print_range_u32();
     
     //loop_change_seed_u16();
