@@ -19,6 +19,7 @@ Implementing pseudo random number generators for AVR's
 * Learn how to take seed via ADC pins
 * Learn if it's possible to take seed from internal clock
 
+###
 * https://en.wikipedia.org/wiki/Xorshift
 * http://www.retroprogramming.com/2017/07/xorshift-pseudorandom-numbers-in-z80.html
 * https://github.com/edrosten/8bit_rng
