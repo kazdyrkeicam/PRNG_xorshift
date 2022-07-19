@@ -33,17 +33,6 @@ uint8_t final_random_16() {
     return result;
 }
 
-
-void print_range_u16() {
-    for( int i = 0; i < 15; ++i ) {
-        printf("%d | ", i);
-        for( int j = 0; j < 11; ++j ) {
-            printf("%u : ", random_int_range_16(0, 10));
-        }
-        printf("%u\n", random_int_range_16(0, 10));
-    }
-}
-
 void print_final_range_u16() {
     for( int i = 0; i < 15; ++i ) {
         printf("%d | ", i);

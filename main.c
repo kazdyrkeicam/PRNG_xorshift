@@ -6,8 +6,6 @@
 int main() {
     
     print_final_range_u16();
-    
-    //print_range_u16();
 
     //print_range_u32();
     
